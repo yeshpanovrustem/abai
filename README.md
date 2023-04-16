@@ -42,3 +42,12 @@ AAAAAAAAAAAAAABAAAAABBAAAAABBBBBBBBBBBBBBAAAAAAAAAABBBBBAABBBAAAAAABBBBBBBBBBBBB
 AAAAAAAABBBBBBBBBAAAABBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAABBBBBBAAAAAAABBBBBBBBBBBBB
 AAAAABBBBBBBBBBBBBAAABBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAABABAAAAAABBBBBBBBBBBBBB
 ```
+# Files
+
+ ## verses.csv
+ - The file contains 176 verses by Abai Qunanbaiuly and their Russian translations.
+ - 168 verses were written in a period between 1855 and 1903; the exact years of eight verses are unknown.
+ - The names of 43 translators head columns (e.g., **A. Zhovtis**,	**A. Kodar**,	**A. Romm**, etc.) after the **Year**, **KK_Title**, and **KK_Text** columns.
+ - A translator name is given more than once (e.g., **A. Steinberg_1**,	**A. Steinberg_2**,	**A. Steinberg_3**) if there are multiple variants of a given verse by the same translator.
+ - The number of tokens in the **KK_Text** column (with punctuation and \n removed) is 19,190
+ - The number of types in the **KK_Text** column (with punctuation and \n removed) is 8,099
