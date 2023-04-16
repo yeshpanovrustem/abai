@@ -51,7 +51,7 @@ AAAAABBBBBBBBBBBBBAAABBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAABABAAAAAABBBBBBBBBBBBBB
  - The number of letters in the **KK_Text** column (with punctuation and \n removed) is 103,285.
  - The number of unique letters in the **KK_Text** column (with punctuation and \n removed) is 40.
  
- 
+ ![The frequency of letters in Abai's verses.](images/verses_letter_frequency.png)
  
   ## verses_translated.csv
  - The file contains 176 verses by Abai Qunanbaiuly (see verses_kazakh.csv) and their Russian translations.
