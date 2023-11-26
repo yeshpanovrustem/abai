@@ -49,7 +49,6 @@ AAAAABBBBBBBBBBBBBAAABBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAABABAAAAAABBBBBBBBBBBBBB
  - With punctuation and \n removed:
    - the number of tokens in the **KK_Text** column is 19,190.
    - the number of types in the **KK_Text** column is 8,099.
-   - the number of letters in the **KK_Text** column is 103,285.
    - the number of unique letters in the **KK_Text** column is 40.
  
  ![The frequency of letters in Abai's verses.](images/verses_letter_frequency.png)
